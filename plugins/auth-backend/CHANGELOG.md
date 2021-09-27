@@ -1,5 +1,13 @@
 # @backstage/plugin-auth-backend
 
+## 0.4.2
+
+### Patch Changes
+
+- c46396ebb: Update OAuth refresh handler to pass updated refresh token to ensure cookie is updated with new value.
+- Updated dependencies
+  - @backstage/backend-common@0.9.5
+
 ## 0.4.1
 
 ### Patch Changes

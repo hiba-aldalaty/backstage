@@ -1,5 +1,13 @@
 # @backstage/plugin-kubernetes
 
+## 0.4.15
+
+### Patch Changes
+
+- 8d397ef27: Added a check for the Kubernetes annotation on the entity
+- Updated dependencies
+  - @backstage/core-components@0.5.1
+
 ## 0.4.14
 
 ### Patch Changes

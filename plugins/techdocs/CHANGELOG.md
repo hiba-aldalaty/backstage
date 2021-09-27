@@ -1,5 +1,16 @@
 # @backstage/plugin-techdocs
 
+## 0.11.4
+
+### Patch Changes
+
+- 0a8bec087: Added a check for the TechDocs annotation on the entity
+- Updated dependencies
+  - @backstage/integration@0.6.6
+  - @backstage/core-components@0.5.1
+  - @backstage/integration-react@0.1.11
+  - @backstage/plugin-catalog@0.6.17
+
 ## 0.11.3
 
 ### Patch Changes
