@@ -27,6 +27,7 @@ export * from './InfoCard';
 export * from './ItemCard';
 export * from './Page';
 export * from './Sidebar';
+export * from './ScalableSidebar';
 export * from './SignInPage';
 export * from './TabbedCard';
 export * from './Breadcrumbs';

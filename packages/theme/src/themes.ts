@@ -70,6 +70,12 @@ export const lightTheme = createTheme({
       indicator: '#9BF0E1',
       color: '#b5b5b5',
       selectedColor: '#FFF',
+      navItem: {
+        hoverBackground: '#404040',
+      },
+      submenu: {
+        background: '#404040',
+      },
     },
     pinSidebarButton: {
       icon: '#181818',
@@ -139,6 +145,12 @@ export const darkTheme = createTheme({
       indicator: '#9BF0E1',
       color: '#b5b5b5',
       selectedColor: '#FFF',
+      navItem: {
+        hoverBackground: '#404040',
+      },
+      submenu: {
+        background: '#404040',
+      },
     },
     pinSidebarButton: {
       icon: '#404040',
