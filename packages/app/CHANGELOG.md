@@ -1,5 +1,15 @@
 # example-app
 
+## 0.2.60
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/cli@0.11.0
+  - @backstage/plugin-kubernetes@0.5.4
+  - @backstage/plugin-pagerduty@0.3.22
+  - @backstage/plugin-tech-insights@0.1.5
+
 ## 0.2.59
 
 ### Patch Changes
